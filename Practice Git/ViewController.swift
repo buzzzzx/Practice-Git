@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func doCatDesign() {
         // Do cat design
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        // hhh
+    }
 
 }
 
